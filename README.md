@@ -27,3 +27,5 @@
 *The design was not responsive or accessible.*
 
 *There were no product highlights, benefits section, or customer testimonials — all key trust-building elements.*
+
+*THIS IS BEFOR REDESIGN WEBSITE:*
