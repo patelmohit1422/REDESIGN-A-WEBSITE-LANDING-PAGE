@@ -29,3 +29,9 @@
 *There were no product highlights, benefits section, or customer testimonials — all key trust-building elements.*
 
 *THIS IS BEFOR REDESIGN WEBSITE:*
+
+![Image](https://github.com/user-attachments/assets/ad9932cc-4b2a-47df-9b9a-82292238d90e)
+
+
+*THIS IS AFTER REDESIGN WEBSITE:*
+
